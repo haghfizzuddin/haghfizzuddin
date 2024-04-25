@@ -15,19 +15,11 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm hafizzuddin</h1>
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm hafiz, an engineer by day and cybersecurity enthusiast at night 👨‍💻 working remotely since 2022 🚀</div>  
-  
 
-- 🌱 I’m currently learning and finding new opportunity in cybersecurity  
-  
+### <div align="center"> An engineer by day and cybersecurity enthusiast at night 👨‍💻 working remotely since 2022 🚀</div>  
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+
 
 <br/>  
 
