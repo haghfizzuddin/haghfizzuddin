@@ -1,6 +1,6 @@
 # Hi, I’m Hafizzuddin Hashim 👋
 
-## 🛡️ Smart Contract | Blockchain Security | Web3 Security Researcher
+## 🛡️ Threat Researcher | Smart Contract | Blockchain Security | Web3 Security Researcher
 
 Welcome to my GitHub! I’m a cybersecurity researcher specializing in **Smart Contract Security**, **DeFi threat analysis**, and **Web3 scam detection**. My work combines hands-on security research, vulnerability discovery, and tooling for safer blockchain ecosystems.
 
