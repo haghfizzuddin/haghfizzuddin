@@ -2,11 +2,12 @@
 
 ## 🛡️ Threat Researcher | Smart Contract | Blockchain Security | Web3 Security Researcher
 
-Welcome to my GitHub! I’m a cybersecurity researcher specializing in **Smart Contract Security**, **DeFi threat analysis**, and **Web3 scam detection**. My work combines hands-on security research, vulnerability discovery, and tooling for safer blockchain ecosystems.
+Welcome to my GitHub! I’m a cybersecurity researcher specializing in **Scam Threat Hunting**, **Smart Contract Security**, **DeFi threat analysis**, and **Web3 scam detection**. My work combines hands-on security research, vulnerability discovery, and tooling for safer blockchain ecosystems.
 
 ### 🧩 **Key Focus Areas**
+- Scam research and taxonomy of scam chain and response
 - Smart Contract **audits**, **exploit research**, and **root cause analysis**.
-- **Python tooling** for blockchain and Web3 security automation.
+- **Python tooling** for web scraping, scam detection, blockchain and Web3 security automation.
 - Analysis of **phishing scams**, **wallet drainers**, and **DeFi protocol risks**.
 - Active learner in **CTFs**, **Cyfrin Updraft**, and **Web3 security spaces**.
 
