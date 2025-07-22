@@ -2,7 +2,7 @@
 
 ## 🛡️ Threat Researcher | Smart Contract | Blockchain Security | Web3 Security Researcher
 
-Welcome to my GitHub! I’m a cybersecurity researcher specializing in **Scam Threat Hunting**, **Smart Contract Security**, **DeFi threat analysis**, and **Web3 scam detection**. My work combines hands-on security research, vulnerability discovery, and tooling for safer blockchain ecosystems.
+Welcome to my GitHub! I’m a cybersecurity researcher specializing in **Scam Threat Hunting**, **Smart Contract Security**, **DeFi threat analysis**, and **Web3 scam detection**. My work combines hands-on security research, vulnerability discovery, and tooling for safer financial ecosystems.
 
 ### 🧩 **Key Focus Areas**
 - Scam research and taxonomy of scam chain and response
@@ -16,10 +16,7 @@ Welcome to my GitHub! I’m a cybersecurity researcher specializing in **Scam Th
 ### 📌 **Pinned Projects**:
 | Repository | What’s Inside |
 |-------------|-----------------|
-| [`Smart-Contract-Audit-Library`](#) | Solidity audit examples, known vulnerabilities, and secure coding patterns |
-| [`Web3-Scam-Detector`](#) | Python-based scam detection tools, domain scanners, and phishing signature research |
-| [`Onchain-Exploit-CaseStudies`](#) | Practical breakdowns of famous DeFi exploits, with on-chain transaction analysis |
-| [`Binance-Job-Audit-Sample`](#) | Sample audit cases specifically curated for Binance role preparation |
+| [`Smart-Contract-Audit-Library`](#)(https://github.com/haghfizzuddin/Smart-Contract-Audit-Library)| Solidity audit examples, known vulnerabilities, and secure coding patterns |
 
 ---
 
