@@ -16,7 +16,7 @@ Welcome to my GitHub! I’m a cybersecurity researcher specializing in **Scam Th
 ### 📌 **Pinned Projects**:
 | Repository | What’s Inside |
 |-------------|-----------------|
-| [`Smart-Contract-Audit-Library`](#)(https://github.com/haghfizzuddin/Smart-Contract-Audit-Library)| Solidity audit examples, known vulnerabilities, and secure coding patterns |
+| [`Smart-Contract-Audit-Library`](#)| Solidity audit examples, known vulnerabilities, and secure coding patterns |
 
 ---
 
