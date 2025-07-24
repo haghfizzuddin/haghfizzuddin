@@ -17,6 +17,9 @@ Welcome to my GitHub! I’m a cybersecurity researcher specializing in **Scam Th
 | Repository | What’s Inside |
 |-------------|-----------------|
 | [`Smart-Contract-Audit-Library`](#)| Solidity audit examples, known vulnerabilities, and secure coding patterns |
+| [`wallet-tracker`](#)|  Blockchain security analysis tool to detect suspicious activities |
+| [` DeFi-Hack-Case-Studies`](#)|  Curated DeFi Hacks analysis and documentation |
+
 
 ---
 
