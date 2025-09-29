@@ -1,25 +1,28 @@
-# Hi, I’m Hafizzuddin Hashim 👋
+# Hi, I’m Hafizzuddin Hashim 👋  
 
-## 🛡️ Threat Researcher | Smart Contract | Blockchain Security | Web3 Security Researcher
+## 🛡️ Electronics Engineer | Threat Researcher | Hardware Security & Embedded Systems | CASP+ | PenTest+ | CySA+
 
-Welcome to my GitHub! I’m a cybersecurity researcher specializing in **Scam Threat Hunting**, **Smart Contract Security**, **DeFi threat analysis**, and **Web3 scam detection**. My work combines hands-on security research, vulnerability discovery, and tooling for safer financial ecosystems.
+Security researcher with an electronics engineering foundation and background, working at the intersection of **hardware and cybersecurity**.  
 
-### 🧩 **Key Focus Areas**
-- Scam research and taxonomy of scam chain and response
-- Smart Contract **audits**, **exploit research**, and **root cause analysis**.
-- **Python tooling** for web scraping, scam detection, blockchain and Web3 security automation.
-- Analysis of **phishing scams**, **wallet drainers**, and **DeFi protocol risks**.
-- Active learner in **CTFs**, **Cyfrin Updraft**, and **Web3 security spaces**.
+My journey spans:  
+- ⚡ Embedded systems (SCADA/ICS)  
+- 🛠️ Critical infrastructure security  
+- 🔎 Current focus on threat research & scam detection  
+
+This unique path revealed a crucial gap: while software security receives massive attention, **hardware attack vectors remain underserved** — yet are becoming increasingly critical.  
 
 ---
 
-### 📌 **Pinned Projects**:
-| Repository | What’s Inside |
-|-------------|-----------------|
-| [`Smart-Contract-Audit-Library`](#)| Solidity audit examples, known vulnerabilities, and secure coding patterns |
-| [`wallet-tracker`](#)|  Blockchain security analysis tool to detect suspicious activities |
-| [` DeFi-Hack-Case-Studies`](#)|  Curated DeFi Hacks analysis and documentation |
+### 🔑 Core Expertise
+- Embedded systems & industrial automation  
+- Security analysis & threat detection  
+- Python automation & data analysis  
+- Hardware debugging & signal analysis  
 
+---
+
+### 📚 Current Learning
+I’m expanding into **hardware security evaluation**, focusing on **fault injection** and **side-channel analysis**, while also diving deeper into **Web3 and smart contract security**.  
 
 ---
 
