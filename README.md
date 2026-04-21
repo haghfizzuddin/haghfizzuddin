@@ -1,37 +1,49 @@
-# Hi, I’m Hafizzuddin Hashim 👋  
+# Hafizzuddin Hashim
 
-## 🛡️ Electronics Engineer | Threat Researcher | Hardware Security & Embedded Systems | CASP+ | PenTest+ | CySA+
+**Threat Intelligence Analyst · Detection Engineer · Security Researcher**
 
-Security researcher with an electronics engineering foundation and background, working at the intersection of **hardware and cybersecurity**.  
-
-My journey spans:  
-- ⚡ Embedded systems (SCADA/ICS)  
-- 🛠️ Critical infrastructure security  
-- 🔎 Current focus on threat research & scam detection  
-
-This unique path revealed a crucial gap: while software security receives massive attention, **hardware attack vectors remain underserved** — yet are becoming increasingly critical.  
+Working at the intersection of threat intelligence, detection engineering, and applied security research. Background in electronics engineering gives me a different lens on attack surfaces — from firmware to phishing infrastructure.
 
 ---
 
-### 🔑 Core Expertise
-- Embedded systems & industrial automation  
-- Security analysis & threat detection  
-- Python automation & data analysis  
-- Hardware debugging & signal analysis  
+## Projects
+
+| Project | What it does |
+|---------|-------------|
+| [phish-detector](https://github.com/haghfizzuddin/phish-detector) | Rule-based phishing URL classifier — YAML rules, weighted scoring, OpenPhish evaluation |
+| [ti-aggregator](https://github.com/haghfizzuddin/ti-aggregator) | Pulls IOCs from URLhaus, AbuseIPDB, OTX — normalises to a common schema, deduplicates with probabilistic confidence scoring |
+| [detection-rules](https://github.com/haghfizzuddin/detection-rules) | Sigma-style detection rules mapped to MITRE ATT&CK — Splunk SPL included, validated with a CI-style checker |
+| [wallet-tracker](https://github.com/haghfizzuddin/wallet-tracker) | Blockchain wallet tracker for monitoring on-chain activity |
+| [postmortem-trace](https://github.com/haghfizzuddin/postmortem-trace) | DeFi hack forensics — traces stolen funds through complex transaction paths |
 
 ---
 
-### 📚 Current Learning
-I’m expanding into **hardware security evaluation**, focusing on **fault injection** and **side-channel analysis**, while also diving deeper into **Web3 and smart contract security**.  
+## Skills
+
+**Threat Intelligence**
+URL/phishing analysis · IOC triage · feed normalisation · brand impersonation detection
+
+**Detection Engineering**
+Sigma rules · Splunk SPL · MITRE ATT&CK mapping · false positive analysis
+
+**Development**
+Python · Go · REST APIs · rule engine design · CLI tooling
+
+**Security**
+Malware triage · scam infrastructure analysis · smart contract auditing · SCADA/ICS
+
+**Certifications:** CASP+ · PenTest+ · CySA+
 
 ---
 
-### 🌐 **Connect with me:**
-- 🔗 [LinkedIn](https://linkedin.com/in/hafizzuddin-hashim/)
-- 💡 [GitHub Projects](https://github.com/haghfizzuddin)
-- 🧪 Currently learning: **Foundry**, **Hardhat**, **advanced DeFi attack vectors**
+## Currently exploring
+
+- Detection coverage gaps for phishing follow-on activity
+- Smart contract vulnerability patterns (Foundry, Hardhat)
+- Hardware security: fault injection and side-channel analysis
 
 ---
 
-> _“Breaking things to make them safer.”_
+[LinkedIn](https://linkedin.com/in/hafizzuddin-hashim/) · [GitHub](https://github.com/haghfizzuddin)
 
+> *"Breaking things to make them safer."*
